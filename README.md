@@ -1,2 +1,2 @@
 # AulasRocket
-Destinado a anotações de aulas do curso  básico JS RocketSeat
+Destinado a anotações de aulas do curso  básico JS RocketSea
